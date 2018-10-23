@@ -30,6 +30,16 @@
     Value Display widget attached to V5
     Value Display widget attached to V6
  *************************************************************/
+ /* 7 Segment Cc Display Example
+ * 
+ *
+ * 
+ * by Niyas Thalappil
+ * 
+ * www.youtube.com/c/NiyasThalappil
+ * NiyazThalappil@gmail.com
+ *
+ */
 
 /* Comment this out to disable prints and save space */
 #define BLYNK_PRINT Serial
